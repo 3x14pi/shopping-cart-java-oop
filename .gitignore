@@ -1,0 +1,11 @@
+# Java build artifacts
+*.class
+
+# macOS
+.DS_Store
+
+# LaTeX temporary files
+*.aux
+*.log
+*.toc
+*.synctex.gz
